@@ -1,3 +1,3 @@
-module day2
+module day7
 
 go 1.19
